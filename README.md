@@ -47,6 +47,12 @@
 **Tech:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn  
 🔗 [View Repository](https://github.com/rahuldmello24/F1-Machine-Learning-Project)
 
+#### 📈 FinSight: Stock Market Forecasting with LSTM  
+> Built and compared **PyTorch** and **TensorFlow LSTM models** to predict stock price movements using historical Apple stock data. Designed an end-to-end ML pipeline covering preprocessing, model training, evaluation, and visualization.  
+> Although prediction accuracy was limited, the project provided key insights into **time series feature scaling**, **model overfitting**, and **sequence windowing strategies**.  
+**Tech:** Python, PyTorch, TensorFlow, Pandas, Matplotlib, NumPy  
+🔗 [View Repository](https://github.com/rahuldmello24/FinSight)
+
 ---
 
 ### 🏆 Highlights  
