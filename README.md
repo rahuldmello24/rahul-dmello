@@ -34,7 +34,7 @@
 
 #### ♟️ ChessVaultDB: Full-Stack Chess Database System  
 > Designed a scalable **MySQL relational database** and implemented a **Flask API** for managing players, games, spectators, and advertisers. Integrated the backend with a **custom Appsmith front-end** for real-time data access, analytics, and moderation tools.  
-**Tech:** MySQL, Python, Flask, SQLAlchemy, Appsmith  
+**Tech:** MySQL, Python, Flask, Docker, SQLAlchemy, Appsmith  
 🔗 [View Repository](https://github.com/wisnerl/23f-project-boilerplate-ChessVaultDB)
 
 #### 🧩 Autism Study: Global Disparities & Predictive Modeling  
